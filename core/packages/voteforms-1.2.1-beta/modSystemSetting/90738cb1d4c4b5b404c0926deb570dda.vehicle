@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'voteforms',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '0c2ece6cea3a8f0d6dea2ca50b45b2cc',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '90738cb1d4c4b5b404c0926deb570dda',
+  'native_key' => 'voteforms_core_path',
+  'object' => '{"key":"voteforms_core_path","value":"{core_path}components\\/voteforms\\/","xtype":"textfield","namespace":"voteforms","area":"voteforms_main","editedon":null}',
+);

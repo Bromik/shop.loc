@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'voteforms',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '69c778c84f5da28d485fc9c40922fd47',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'a08565ad0469381e5e9520f0b90d35a0',
+  'native_key' => 'voteforms_assets_url',
+  'object' => '{"key":"voteforms_assets_url","value":"{assets_url}components\\/voteforms\\/","xtype":"textfield","namespace":"voteforms","area":"voteforms_main","editedon":null}',
+);

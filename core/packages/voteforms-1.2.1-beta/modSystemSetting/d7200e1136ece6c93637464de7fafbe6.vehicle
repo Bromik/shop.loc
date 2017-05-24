@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'voteforms',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '696d304a79a6b5efdfe2e6cb2a149f56',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'd7200e1136ece6c93637464de7fafbe6',
+  'native_key' => 'voteforms_frontend_js',
+  'object' => '{"key":"voteforms_frontend_js","value":"[[+jsUrl]]web\\/voteforms.js","xtype":"textfield","namespace":"voteforms","area":"voteforms_main","editedon":null}',
+);

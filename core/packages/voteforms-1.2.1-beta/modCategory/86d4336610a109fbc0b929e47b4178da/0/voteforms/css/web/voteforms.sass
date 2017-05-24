@@ -1,0 +1,68 @@
+.vtf
+  margin-bottom: 20px
+  .row
+    margin-bottom: 10px
+  &-field
+    display: inline-block
+    font-weight: bold
+    &-name
+      margin-right: 20px
+  .badge
+    margin-left: 5px
+    padding: 6px 8px
+    margin-right: 20px
+  .raty
+    position: relative
+    top: 7px
+
+.vtf-alert
+  display: none
+
+.raty
+  display: inline-block
+.icon-done
+  display: none
+  color: #5cb85c
+  font-size: 20px
+  position: relative
+  left: 5px
+  top: -3px
+
+.cancel-on-png, .cancel-off-png, .star-on-png, .star-off-png, .star-half-png
+  font-size: 2em
+
+@font-face
+  font-family: "raty"
+  font-style: normal
+  font-weight: normal
+  src: url("../../vendor/raty/lib/fonts/raty.eot")
+  src: url("../../vendor/raty/lib/fonts/raty.eot?#iefix") format("embedded-opentype")
+  src: url("../../vendor/raty/lib/fonts/raty.svg#raty") format("svg")
+  src: url("../../vendor/raty/lib/fonts/raty.ttf") format("truetype")
+  src: url("../../vendor/raty/lib/fonts/raty.woff") format("woff")
+
+.cancel-on-png, .cancel-off-png, .star-on-png, .star-off-png, .star-half-png
+  -moz-osx-font-smoothing: grayscale
+  -webkit-font-smoothing: antialiased
+  font-family: "raty"
+  font-style: normal
+  font-variant: normal
+  font-weight: normal
+  line-height: 1
+  speak: none
+  text-transform: none
+
+.cancel-on-png:before
+  content: "\e600"
+
+.cancel-off-png:before
+  content: "\e601"
+
+.star-on-png:before
+  content: "\f005"
+
+.star-off-png:before
+  content: "\f006"
+
+.star-half-png:before
+  content: "\f123"

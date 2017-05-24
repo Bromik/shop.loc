@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8804a5a739c80d3fd613bfe07fdf6b8a',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'e19c4dec9b8e5f05e14b83a22e336f59',
+  'native_key' => 'ms2_payment_paypal_pwd',
+  'object' => '{"key":"ms2_payment_paypal_pwd","value":"","xtype":"text-password","namespace":"minishop2","area":"ms2_payment","editedon":"2017-04-05 14:05:51"}',
+);

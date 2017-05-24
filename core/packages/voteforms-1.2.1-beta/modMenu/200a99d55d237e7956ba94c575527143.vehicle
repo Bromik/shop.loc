@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '76785c33bd11ca31e7853f0abedec8bf' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":0,"namespace":"voteforms","controller":"index","haslayout":1,"lang_topics":"voteforms:default","assets":"","help_url":"","parent":0}',
+        'guid' => 'e30a2179d0f3353f6f170e45d672a27f',
+        'native_key' => 0,
+        'signature' => 'aa5c822fda5274fd297ae3b362d02cff',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'voteforms',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b0ed7ee11528a1e25ac276f055443660',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => '200a99d55d237e7956ba94c575527143',
+  'native_key' => 'voteforms',
+  'object' => '{"text":"voteforms","parent":"components","action":0,"description":"voteforms_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

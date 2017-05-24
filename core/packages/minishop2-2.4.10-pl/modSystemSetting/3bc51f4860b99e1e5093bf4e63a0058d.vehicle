@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3a43a2fd0e026494fa33fbbe986303b0',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '3bc51f4860b99e1e5093bf4e63a0058d',
+  'native_key' => 'mgr_tree_icon_msproduct',
+  'object' => '{"key":"mgr_tree_icon_msproduct","value":"icon icon-tag","xtype":"textarea","namespace":"minishop2","area":"ms2_product","editedon":"2017-04-05 14:05:51"}',
+);

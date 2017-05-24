@@ -1,0 +1,15 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => true,
+  'namespace' => 'minishop2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7ccec69defea98023cd17906fc32bb37',
+  'package' => 'modx',
+  'class' => 'modEvent',
+  'signature' => '951b273b8c341ba70118fc63a8be7dc3',
+  'native_key' => 'msOnCreateOrderProduct',
+  'object' => '{"name":"msOnCreateOrderProduct","service":6,"groupname":"miniShop2"}',
+);
