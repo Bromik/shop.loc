@@ -1081,3 +1081,12 @@ h2.sub-title { font-size:14px; font-weight:700; background:#fafafa; color:#444; 
 .row-flex > div[class*='col-'] {
     margin:-.2px; /* hack adjust for wrapping */
 }
+
+.grid-sect {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list-sect{
+    display: none;
+}

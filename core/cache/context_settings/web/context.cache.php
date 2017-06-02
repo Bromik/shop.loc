@@ -13,6 +13,7 @@
     'poisk-po-tegam.html' => 20,
     'kategorii/' => 13,
     'korzina.html' => 21,
+    'kategorii-(spisok).html' => 35,
     'blog/statya-1.html' => 6,
     'blog/statya-2.html' => 7,
     'blog/statya-3.html' => 8,
@@ -47,6 +48,7 @@
       6 => 20,
       7 => 13,
       8 => 21,
+      9 => 35,
     ),
     5 => 
     array (

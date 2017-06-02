@@ -22,6 +22,8 @@ jQuery(document).ready(function () {
         autoplayHoverPause: true
     });
 
+
+
     setInterval(function () {
         jQuery("#CartContainer").load("index.php #CartContainer");
     }, 5000);
