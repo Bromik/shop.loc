@@ -22,7 +22,18 @@ jQuery(document).ready(function () {
         autoplayHoverPause: true
     });
 
-
+    function showGrid(){
+        jQuery('.grid-sect').click(function(){
+            jQuery('.grid-sect').css('display','block');
+            jQuery('.list-sect').css('display','none');
+        })
+    }
+    function showList(){
+        jQuery('.list-sect').click(function(){
+            jQuery('.list-sect').css('display','block');
+            jQuery('.grid-sect').css('display','none');
+        })
+    }
 
     setInterval(function () {
         jQuery("#CartContainer").load("index.php #CartContainer");
